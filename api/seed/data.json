@@ -1,0 +1,58 @@
+[
+  {
+    "breed":"German Shepherd",
+    "imageURL":"https://placedog.net/600?id=35",
+    "bigDog":true,
+    "goodDog":true,
+    "shortDesc":"eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi",
+    "longDesc":"Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+  },
+  {
+    "breed":"Golden Retriever",
+    "imageURL":"https://placedog.net/600?id=3",
+    "bigDog":true,
+    "goodDog":true,
+    "shortDesc":"bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat",
+    "longDesc":"Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
+  },
+  {
+    "breed":"Weimaraner",
+    "imageURL":"https://placedog.net/600?id=22",
+    "bigDog":true,
+    "goodDog":true,
+    "shortDesc":"posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at",
+    "longDesc":"Fusce consequat. Nulla nisl. Nunc nisl."
+  },
+  {
+    "breed":"German Shorthaired Pointer",
+    "imageURL":"https://placedog.net/600?id=10",
+    "bigDog":true,
+    "goodDog":true,
+    "shortDesc":"est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim",
+    "longDesc":"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+  },
+  {
+    "breed":"Corgi",
+    "imageURL":"https://placedog.net/600?id=14",
+    "bigDog":false,
+    "goodDog":true,
+    "shortDesc":"ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing",
+    "longDesc":"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+  },
+  {
+    "breed":"Belgian Malinois",
+    "imageURL":"https://placedog.net/600?id=98",
+    "bigDog":true,
+    "goodDog":true,
+    "shortDesc":"hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel",
+    "longDesc":"Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+  },
+  {
+    "breed":"Bernese Mountain Dog",
+    "imageURL":"https://placedog.net/600?id=86",
+    "bigDog":true,
+    "goodDog":true,
+    "shortDesc":"eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros",
+    "longDesc":"Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+  }
+]
