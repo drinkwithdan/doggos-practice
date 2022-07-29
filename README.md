@@ -1,6 +1,6 @@
 # Doggos! - MERN Practice
 
-This is Evan's clash
+## This is Evan's changes - do they clash?
 
 Get some practice scaffolding a MERN application from the ground up.
 
