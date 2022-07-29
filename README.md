@@ -1,5 +1,7 @@
 # Doggos! - MERN Practice
 
+This is Evan's clash
+
 Get some practice scaffolding a MERN application from the ground up.
 
 ## Part 1
