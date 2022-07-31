@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Link } from "react-router-dom"
+import { Link, Outlet } from "react-router-dom"
 
 // INDEX / view
 
@@ -18,8 +18,12 @@ const HomePage = ({ doggos }) => {
   })
   return (
     <>
+      <Link to="/new">
+        <button>Add a New Doggo</button>
+      </Link>
       <h1>Doggo List:</h1>
       {doggoList}
+      <Outlet />
     </>
   )
 }
